@@ -64,5 +64,4 @@ This project showcases a practical implementation of federated learning for **me
 
 ## 📬 Contact
 
-If you have any questions or suggestions, feel free to reach out:  
-📧 [nvarjunmani07@gmail.com](mailto:nvarjunmani07@gmail.com)
+If you have any questions or suggestions, feel free to reach out.
